@@ -1,0 +1,34 @@
+[
+    {
+        "name": "",
+        "phone": "",
+        "mail": "",
+        "Password": ""
+    },
+    {
+        "name": "",
+        "phone": "",
+        "mail": "",
+        "Password": ""
+    },
+    {
+        "name": "mahmoud",
+        "phone": "cnj ",
+        "mail": "mah",
+        "Password": "123",
+        "posts": [
+            {
+                "text": "njkc"
+            },
+            {
+                "text": "gykjhk,m"
+            }
+        ],
+        "images": [
+            {
+                "path": "D:/toka osman/task17/Figure_1.png",
+                "user": "mahmoud"
+            }
+        ]
+    }
+]
